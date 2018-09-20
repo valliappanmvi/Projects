@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/valli/Desktop/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/valli/Desktop/log4j-1.2.16.jar/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/valli/Desktop/jackson-core-2.2.3.jar/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/valli/Desktop/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar" sourcepath="C:/Users/valli/AppData/Local/Temp/.org.sf.feeling.decompiler1537150782376/source/jackson-databind-2.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/valli/Desktop/commons-io-2.6.jar" sourcepath="C:/Users/valli/AppData/Local/Temp/.org.sf.feeling.decompiler1537150782376/source/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/valli/Desktop/jackson-annotations-2.1.2.jar/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

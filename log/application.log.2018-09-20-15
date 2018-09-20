@@ -1,0 +1,9 @@
+2018-09-20 15:04:21 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 15:05:39 ERROR Validate001:21 - INST_CONFIG does not exist in the JSON file
+2018-09-20 15:07:29 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 15:09:05 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 15:48:50 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 15:49:53 ERROR Utils:20 - HAS_HEADERtoken not present for the JSON array - {"MAX_FILE_SIZE":60000000,"MAX_RECORD_COUNT":500,"NEED_HEADER":true,"FILE_NAME_FMT":"RETURNED_${MARKET_ID}_${SOURCE_CCY}_${SHORT_DATE}_${REPORT_SEQ}_${CLIENT_GROUP_BY}","EXTN":"csv"}
+2018-09-20 15:49:53 ERROR Validate001:106 - JSONObject["HAS_HEADER"] not found.for the JSON array - {"MAX_FILE_SIZE":60000000,"MAX_RECORD_COUNT":500,"NEED_HEADER":true,"FILE_NAME_FMT":"RETURNED_${MARKET_ID}_${SOURCE_CCY}_${SHORT_DATE}_${REPORT_SEQ}_${CLIENT_GROUP_BY}","EXTN":"csv"}
+2018-09-20 15:50:25 INFO  Validate001:21 - Consolidated error messages in 001 JSON validation :
+2018-09-20 15:50:28 ERROR Validate001:23 - JSONObject["HAS_HEADER"] not found.for the JSON array - {"MAX_FILE_SIZE":60000000,"MAX_RECORD_COUNT":500,"NEED_HEADER":true,"FILE_NAME_FMT":"RETURNED_${MARKET_ID}_${SOURCE_CCY}_${SHORT_DATE}_${REPORT_SEQ}_${CLIENT_GROUP_BY}","EXTN":"csv"}

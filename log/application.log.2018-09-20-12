@@ -1,0 +1,5 @@
+2018-09-20 12:03:59 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 12:50:59 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 12:50:59 INFO  Launcher:94 - JSON format error - Expected a ',' or '}' at 1298 [character 4 line 72]
+2018-09-20 12:52:01 INFO  Launcher:86 - Loaded 001 validation file
+2018-09-20 12:52:01 INFO  Launcher:94 - JSON format error - Expected a ',' or '}' at 1078 [character 4 line 59]

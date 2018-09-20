@@ -1,0 +1,7 @@
+2018-09-20 18:26:12 INFO  Launcher:89 - Loaded 001-file-defn-sftp.json validation file
+2018-09-20 18:26:51 INFO  Launcher:89 - Loaded 001-file-defn-sftp.json validation file
+2018-09-20 18:26:51 INFO  Validate001:29 - File 001-file-defn-sftp.json validated successfully
+2018-09-20 18:27:50 INFO  Launcher:89 - Loaded 001-file-defn-as2.json validation file
+2018-09-20 18:27:51 INFO  Launcher:97 - JSON format error - Missing value at 1 [character 2 line 1]
+2018-09-20 18:28:42 INFO  Launcher:89 - Loaded 001-file-defn-as2.json validation file
+2018-09-20 18:28:42 INFO  Launcher:97 - JSON format error - Expected a ':' after a key at 200 [character 4 line 14]

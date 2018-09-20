@@ -1,0 +1,10 @@
+2018-09-20 17:10:44 INFO  Launcher:89 - Loaded 001 validation file
+2018-09-20 17:13:00 INFO  Launcher:89 - Loaded 001-file-defn-sftp.json validation file
+2018-09-20 17:13:21 ERROR Validate001:155 - Invalid extn value csv.out configured for JSON array - {"HAS_HEADER":true,"EXTN":"csv.out"}
+2018-09-20 17:13:47 INFO  Launcher:89 - Loaded 001-file-defn-sftp.json validation file
+2018-09-20 17:15:10 INFO  Launcher:89 - Loaded 001-file-defn-sftp.json validation file
+2018-09-20 17:15:44 ERROR Validate001:153 - Invalid group_by value -GROUP_BY in derive config - {"GROUP_BY":"GROUP_BY","TBL_REF":"INST_MEM"}
+2018-09-20 17:16:27 INFO  Launcher:89 - Loaded 001-file-defn-sftp.json validation file
+2018-09-20 17:19:25 INFO  Validate001:29 - File validated successfully
+2018-09-20 17:19:56 INFO  Launcher:89 - Loaded 002-file-defn-as2.json validation file
+2018-09-20 17:28:56 INFO  Launcher:89 - Loaded 002-file-defn-as2.json validation file
